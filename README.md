@@ -1,5 +1,4 @@
 # 💫 About Me:
-🔭 I’m currently working on Mern Stack project <br>🏢 I'm currently working in a company called Zecser as a React developer 
 
 
 ## 🌐 Socials:
